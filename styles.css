@@ -1,0 +1,74 @@
+body,html{
+  height: 100%;
+  background-color:#315659;
+  text-align: center;
+  margin: 0;
+}
+h1{
+  color: #C6E0FF;
+  font-size: 300%;
+  font-family: 'Orbitron', sans-serif;
+}
+.container{
+  padding: 1%;
+  height: 60%;
+  width: 50%;
+  margin: auto;
+  background-color: #C6E0FF;
+  box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 10%;
+  margin-bottom: 10%;
+}
+p{
+  font-size: 150%;
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #315659;
+}
+.btn{
+  height: 10%;
+  width: 10%;
+  margin: 2%;
+  box-shadow: 1px 1px 1px 1px #315659;;
+  border-radius: 10%;
+  font-size: 120%;
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #C6E0FF;
+  background-color:#315659;
+}
+#output{
+  margin-top: 2%;
+  position: relative;
+  left:30%;
+  width:40%;
+  margin-bottom: 5%;
+  border-radius: 5%;
+  border: solid black 1px;
+  font-size: 200%;
+  height: 30%;
+  background-color: #C6E0FF;
+  text-align: center;
+  box-shadow: 2px 2px 3px 0 #315659;
+}
+h2{
+  margin: 3%;
+  color: #000000;
+  font-size: 200%;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.bottom{
+  background-color: #C6E0FF;
+  margin-top:1%;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  height: 14%;
+  color: #424B54;
+}
+.text{
+  margin: 0;
+}
+img{
+  height: 1.8rem;
+  width: 1.8rem;
+}
