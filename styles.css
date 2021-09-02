@@ -9,11 +9,13 @@ h1{
   font-size: 300%;
   font-family: 'Orbitron', sans-serif;
 }
+
 .container{
   padding: 1%;
+  display: inline-block;
   height: 60%;
   width: 50%;
-  margin: auto;
+  margin-right: 17.6%;
   background-color: #C6E0FF;
   box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
@@ -55,6 +57,13 @@ h2{
   color: #000000;
   font-size: 200%;
   font-family: 'Noto Sans JP', sans-serif;
+}
+#count{
+  width:100px;
+  height: 100px;
+  margin-right: 10%;
+  position: relative;
+  left:60%;
 }
 .bottom{
   background-color: #C6E0FF;
